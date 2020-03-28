@@ -22,7 +22,7 @@ Esse projeto foi feito com [Expo](https://expo.io/) versão 36.0.0:
 
 Execute `npm start` para iniciar o serviço. Automaticamente será aberto o navegador no endereço `http://localhost:19002/`.
 
-Instale em seu celular o aplicativo Expo <img src="https://lh3.googleusercontent.com/Bn-9LhsZ1P0z-ob_4pwvTF3aucymAzk6uqG7QIPkM7oo_ADkF1TJu_zJdxJswpkfU3Y=s180-rw" width="50" />.
+Instale em seu celular o aplicativo Expo <img src="https://lh3.googleusercontent.com/Bn-9LhsZ1P0z-ob_4pwvTF3aucymAzk6uqG7QIPkM7oo_ADkF1TJu_zJdxJswpkfU3Y=s180-rw" width="20" />.
 
 Abra o aplicativo e escaneie o qrcode que aparece no endereço `http://localhost:19002/`.
 
